@@ -97,7 +97,7 @@
 	      <html>
 	      <head>
 	        <style>
-
+	          @page { size: auto;  margin: 0mm; }
 	          *, .max {
 	            max-width: 100px;
 	          }
