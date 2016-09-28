@@ -1,0 +1,23 @@
+{
+  "name": "dymatize-qrcode-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/sku2uinc/dymatize-qr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/sku2uinc/dymatize-qr#readme",
+  "dependencies": {
+    "qr-encode": "^0.3.0",
+    "qrcode-js": "0.0.2",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}

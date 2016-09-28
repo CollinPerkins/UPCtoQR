@@ -1,0 +1,13 @@
+#qr{
+  margin-top: 50px;
+  height: 900px;
+  width: 900px;
+}
+
+body {
+  margin-top: 100px;
+}
+
+#qr {
+  height: 400px;
+}
